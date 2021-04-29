@@ -67,7 +67,8 @@ Na LAN *corporate* estão as estações de trabalho dos funcionários da empresa
 Deve configurar 2 PCs de outros tantos engenheiros da ICI.
 Cada PC deve correr Linux.
 Os PCs devem ter instalado e configurado um programa para acesso à *web*.
-Devem obter o seu IP dinamicamente através do serviço de DHCP.
+Devem obter o seu IP dinamicamente através do serviço de DHCP. 
+(Caso não escolham fazer o Servidor DHCP, podem só atribuir ip's estáticos a todas as máquinas em que é pedido para obterem os ip's dinamicamente)
 
 Um dos engenheiros é também o administrador da rede informática, e a sua máquina deverá monitorizar o estado da rede com [MRTG][MRTG].
 
@@ -176,7 +177,7 @@ As alternativas consideradas deverão ser apresentadas no relatório e a escolha
 
 Como foi referido, algumas das máquinas devem receber o seu endereço IP dinamicamente a partir de um servidor DHCP.
 Esse servidor deve ser colocado onde for considerado conveniente e justificado no relatório.
-Deve ser usado o [dhcp3-server][Dhcp2] e o cliente respetivo [dhcp3-client][Dhcp2].
+Deve ser usado o [dhcp3-server][Dhcp2] e o cliente respetivo [dhcp3-client][Dhcp2]. 
 
 ### Monitorização da rede - MRTG
 
