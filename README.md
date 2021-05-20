@@ -201,7 +201,7 @@ Não é necessário ter nenhuma infraestrutura que assine os nomes automaticamen
 
 A entrega do projeto tem duas fases:
 
-1. Os grupos devem apresentar um diagrama detalhado da rede (topologia, endereços IP/MAC, subredes, localização dos serviços) – numa aula de laboratório ou numa sessão de dúvidas até **quinta-feira, 13 de Maio de 2021, 17:00**.
+1. Os grupos devem apresentar um diagrama detalhado da rede (topologia, endereços IP + nome interface, subredes, localização dos serviços) – numa aula de laboratório ou numa sessão de dúvidas até **quinta-feira, 13 de Maio de 2021, 17:00**.
 Após esta data já não será garantido *feedback* ao diagrama de rede antes da entrega final do relatório.
 
 2. Entrega final – até **quarta-feira, 26 de Maio de 2021, às 17:00**.
